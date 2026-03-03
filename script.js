@@ -1,7 +1,7 @@
 /* =========================================
    0. LIMPEZA / CONFIG
    ========================================= */
-// (REMOVIDO) Linha solta: +55 71 99260-2698  -> isso quebrava seu JS se colado no arquivo.
+// (REMOVIDO) Linha solta: +55 11 97276-4015  -> isso quebrava seu JS se colado no arquivo.
 
 /* =========================================
    1. CONFIGURAÇÃO GERAL
@@ -421,4 +421,5 @@ window.handleLogin = handleLogin;
 window.scrollToTop = scrollToTop;
 window.changeSlide = changeSlide;
 window.acceptCookies = acceptCookies;
+
 
